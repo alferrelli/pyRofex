@@ -17,7 +17,7 @@
 import pyRofex
 
 # 1-Initialize the environment
-pyRofex.initialize(user="XXXXXXXXX",
+pyRofex.initialize(user="XXXXXXXXX_XXXXX",
                    password="XXXXXXXX",
                    account="XXXXXXXXX",
                    environment=pyRofex.Environment.REMARKET)
