@@ -17,9 +17,9 @@
 import pyRofex
 
 # 1-Initialize the environment
-pyRofex.initialize(user="XXXXXXXXX_XXXXX",
-                   password="XXXXXXXX",
-                   account="XXXXXXXXX",
+pyRofex.initialize(user="adriandetodo7055",
+                   password="dzuebL3_",
+                   account="REM7055",
                    environment=pyRofex.Environment.REMARKET)
 
 # 2-Get all available segments and print all segment ids
