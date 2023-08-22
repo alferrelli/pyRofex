@@ -21,13 +21,14 @@ import datetime
 import pyRofex
 
 # 1-Initialize the environment
-pyRofex.initialize(user="XXXXXXX",
-                   password="XXXXXXX",
-                   account="XXXXXXX",
+pyRofex.initialize(user="adriandetodo7055",
+                   password="dzuebL3_",
+                   account="REM7055",
                    environment=pyRofex.Environment.REMARKET)
 
 # 2-Set the instrument to use
-instrument = "DLR/ENE24"
+#instrument = "DLR/ENE24"
+instrument = "MERV - XMEV - GGAL - 48hs"
 
 # 3-Get the two Best Bids and Best Offers for the instrument (using depth parameter)
 entries = [pyRofex.MarketDataEntry.BIDS, pyRofex.MarketDataEntry.OFFERS, pyRofex.MarketDataEntry.LAST]
