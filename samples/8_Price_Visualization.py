@@ -1,5 +1,5 @@
 import pyRofex
-
+import secret
 import pandas as pd
 from datetime import datetime
 import matplotlib.pyplot as plt
@@ -16,9 +16,9 @@ fig, ax = plt.subplots(figsize=(14, 5))
 count = 0
 
 # Initialize the environment
-pyRofex.initialize(user="XXXXXXX",
-                   password="XXXXXXX",
-                   account="XXXXXXX",
+pyRofex.initialize(user=secret.USER,
+                   password=secret.PASSWORD,
+                   account=secret.ACCOUNT,
                    environment=pyRofex.Environment.REMARKET)
 
 

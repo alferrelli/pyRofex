@@ -49,7 +49,7 @@ pyRofex.init_websocket_connection(market_data_handler=market_data_handler,
 
 
 # 4-Subscribes to receive market data messages
-instruments = ["DLR/DIC23", "DLR/ENE24"]  # Instruments list to subscribe
+instruments = ["MERV - XMEV - GGAL - 48hs", "MERV - XMEV - GGAL - CI"]  # Instruments list to subscribe
 entries = [pyRofex.MarketDataEntry.BIDS,
            pyRofex.MarketDataEntry.OFFERS,
            pyRofex.MarketDataEntry.LAST]
@@ -63,5 +63,5 @@ pyRofex.market_data_subscription(tickers=["InvalidInstrument"],
 
 
 # Wait 5 sec then close the connection
-time.sleep(5)
+time.sleep(300r)
 pyRofex.close_websocket_connection()

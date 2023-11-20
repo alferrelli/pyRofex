@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "python-tablero",
+  "private_key_id": "b4e406338fca9ea7aba8b50f0fcddf661ed592d7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCtTuWlPkJ9fMuc\nJoifwhCsrLLQ8efOY0PC+Zm8mPFpPweTrFsFELs+PJGBcyIFNYgUQ0+AF1qlaVzG\nuQKEgQyXnfjpOx/XqnnHbv2oAnQRJAVzdihuQhCSZYKCyQvVikbdkRO6JaB0Tc3M\njSFZZyVa6/SCx8DDel3DyltuPK9W6d9fxcW758S2L6nMPp0SwZVDHsRTRoDW2fqc\nRwydDRUWJ+lXLz8FhFTRfYpVPVj5kkmA0p1rWBI8A1Fq7w88RhZQ7RxgUUkVeg/r\naIx5MElswnSds9rnjFKzLCaxwSDkxRR/bXT/OA7kUf+fCoeOX7GOYoGYBthzCAgW\nJGN3o9CVAgMBAAECggEADtxChbpCckcmoFOPiH9X9a5zQMZVVZWeZFQJsim9HYSp\njiiLv3HxVENWSK7KHn86FV62LOoTvDY+Hc4UYK8+GKwTgVAwCUqVWZvzRRo8wJGB\npCZgDiA9EoiAud0qVhueuvXrJp1+ViqruFvrnaJiChtMYoBlT32pF5Y848VxVXbh\nEr9L7Wca2sQo1hiCHyPecDtcic0HCiKZTIXTbpX/OajoIdRwMQE29reDSKg141lJ\nZWnVdiXmlFK6fK9bJT71l9IukW9pKXu2wDyJrrq7BwM9Hx4gud64FLhCo5xifmZV\n/2N+Axnbj4NAwi2KN6zdDbrpi7RVhmxR0Mo3g6Ln8QKBgQDkQHS0q4DVECRv0A6c\nwOt+NHlEzeaGRZw8KdNXzrS6kA0xFaxeNmrxZtTSBMEEGBap3e7GSa4LKIdWomJ4\nwW8cDkCkHj0CxZh6zrK+EtDRasdRNjvW9EZT8KtQ4ZCWUeZs6jTrBuECjgnR7XbY\n6lOlTh8qXFVDUIr5T/fcumqwOQKBgQDCYINC0xUsvp7YTVobiExq1FgntH/OgfNy\nFxtxurbA5y1uCPNgezZ0TFHvuaDdegpzwc/TCEXud0KK5xQfpK2HfjPSFqpmHV2Y\n2ZfyvbrXezcbMBt56rBNL8aWXC5ZkM4COnl11IoKVqemmfz9JWvi81gIgfgASu0d\nHoE++RBrPQKBgQDQDv0S7z5JeSRtk66uLqC68uQT1sgqXuuSX+HZKX/Oi56qvoHX\ngy0qjTyzkEfNDpQiFT4hG2p9m1z6mJzATDqWzVsY/sNIcouSbjW6UvZr3jR/j7su\nLo6o1zmiSWp9y3wKjdbc4fFbXdQPurDZ+4dxqGt6Np419QYpSj66wmab6QKBgQC4\nRarqxRYD70rDoMFV7KcVd+2C5rlrWwMiHAnmja4HvqHw+QdRZj2/j0L2UzLQBIy4\nJPsTA3rYkbNB38PSI9pm4xvZhadRW3GKIG7Or1PcSHF7kuXZdMZixnIrxYQjYQYM\nUscnD7E2D+SsKrwOeVWIOE4y8pPcIywbOPoqaxBHuQKBgQCmE2cF+sDsXmfrKEvl\nEABcWgeH1RwGxGODaba8tUyYZtDpz6dGuEqZZqAPywoEC7di7gdaJwOzNu2oBoiF\nDm+cnviqPgUraBK2snhljXarCr6KxPI1zK+qdfc3pLzgHjZcjVgI9XKJBwgI7rF/\na3idLa+tdM+MeDlCyEMOiQ9lWw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "python-tablero@python-tablero.iam.gserviceaccount.com",
+  "client_id": "102081927085778938985",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/python-tablero%40python-tablero.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

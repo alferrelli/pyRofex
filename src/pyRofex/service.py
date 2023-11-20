@@ -527,7 +527,7 @@ def init_websocket_connection(market_data_handler=None,
     :param environment: Environment used. Default None: the default environment is used.
     :type environment: Environment (Enum).
     """
-
+    print("init--------------")
     # Validations
     environment = _validate_environment(environment)
     _validate_initialization(environment)
