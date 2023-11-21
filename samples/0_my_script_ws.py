@@ -102,8 +102,6 @@ def evaluate(instrument1, instrument2):
     qty_to_buy = instrument1['marketData']['BI'][0]['size']
     qty_to_sell = instrument2['marketData']['OF'][0]['size']  
     
-    logger.info("Evaluating ")
-
     tna = calc.calculate_tna(price_to_buy, price_to_sell,days=2) 
     risk_free_rate = round(tasa2d['marketData']['BI'][0]['price'],3)
     logger.info("tna: "+str(tna)+" - TLR "+str(risk_free_rate))
