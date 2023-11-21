@@ -104,7 +104,7 @@ def evaluate(instrument1, instrument2):
     
     tna = calc.calculate_tna(price_to_buy, price_to_sell,days=2) 
     risk_free_rate = round(tasa2d['marketData']['BI'][0]['price'],3)
-    logger.info("tna: "+str(tna)+" - TLR "+str(risk_free_rate))
+    logger.info("tna: "+str(tna)+" - TLR "+str(risk_free_rate)+ ", buy: "+str(price_to_buy)+", sell: "+str(price_to_sell))
     if tna > risk_free_rate:
         print ("conviene vender ci y comprar 48")
 
