@@ -1,0 +1,7 @@
+# USER= "adriandetodo7055"
+# PASSWORD= "dzuebL3_"
+# ACCOUNT= "REM7055"
+
+USER= "20215883931"
+PASSWORD= "148_Halcon_148"
+ACCOUNT="38335"
